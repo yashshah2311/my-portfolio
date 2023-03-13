@@ -1,0 +1,33 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDM0MDk0NzMy",
+      "title": "Init commit",
+      "url": "https://github.com/frenzyTeam/frenzy-user-ui/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15906604?u=5040e987f021324b96efbefb62dacfa0e17104c4&v=4",
+        "url": "https://github.com/hjk1995",
+        "login": "hjk1995"
+      },
+      "createdAt": "2020-06-14T04:54:14Z",
+      "number": 1,
+      "changedFiles": 106,
+      "additions": 3996,
+      "deletions": 1140,
+      "baseRepository": {
+        "name": "frenzy-user-ui",
+        "url": "https://github.com/frenzyTeam/frenzy-user-ui",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65752729?v=4",
+          "login": "frenzyTeam",
+          "url": "https://github.com/frenzyTeam"
+        }
+      }
+    }
+  ],
+  "merged": 1,
+  "open": 0,
+  "totalCount": 1
+}

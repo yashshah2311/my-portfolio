@@ -42,6 +42,13 @@ const techSkills = {
       color: "#1488C6",
     },
   },
+  jenkins: {
+    skillName: "Jenkins",
+    fontAwesomeClassname: "vscode-icons:file-type-jenkins",
+    style: {
+      color: "",
+    },
+  },
   elasticSearch: {
     skillName: "Elastic Search",
     fontAwesomeClassname: "logos-elasticsearch",
@@ -133,6 +140,13 @@ const techSkills = {
     fontAwesomeClassname: "simple-icons:node-dot-js",
     style: {
       color: "#339933",
+    },
+  },
+  mulesoft: {
+    skillName: "Mulesoft",
+    fontAwesomeClassname: "simple-icons:mulesoft",
+    style: {
+      color: "#0176d3",
     },
   },
   npm: {

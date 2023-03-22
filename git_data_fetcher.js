@@ -1,6 +1,6 @@
 const openSource = {
-  githubConvertedToken: "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",
-  githubUserName: "hjk1995",
+  githubConvertedToken: "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",
+  githubUserName: "yashshah2311",
 };
 
 const fetch = require("node-fetch");
@@ -99,7 +99,7 @@ const query_org = {
 const query_pinned_projects = {
   query: `
 	query {
-    user(login: "hjk1995") {
+    user(login: "yashshah2311") {
       id
       repositories(first: 50) {
         edges {

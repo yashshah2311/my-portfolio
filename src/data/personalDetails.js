@@ -1,9 +1,9 @@
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "contactHarshil.png",
+    profile_image_path: "YashShah.png",
     description:
-      "I am open to any opportunities including Backend, Frontend, ML, AI and Infrastructure. You can contact me anytime to discuss about new opportunities",
+      "I am open to any opportunities including Backend, Frontend and Infrastructure. You can contact me anytime to discuss about new opportunities",
   },
   addressSection: {
     title: "Address",

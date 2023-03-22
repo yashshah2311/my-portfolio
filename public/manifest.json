@@ -1,5 +1,5 @@
 {
-  "name": "Harshil Kothari",
+  "name": "Yash Shah",
   "background_color": "#ffffff",
   "display": "standalone",
   "icons": [
@@ -40,7 +40,7 @@
       "density": "4.0"
     }
   ],
-  "short_name": "HarshilKothari",
+  "short_name": "YashShah",
   "start_url": ".",
   "theme_color": "#000000"
 }

@@ -53,7 +53,7 @@ class Experience extends Component {
           <ExperienceAccordion
             sections={experience["sections"]}
             theme={theme}
-            timeline={false}
+            timeline={true}
           />
         )}
         {!isAccordion && (

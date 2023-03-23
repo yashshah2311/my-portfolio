@@ -180,7 +180,7 @@ let experience = {
           end_date: undefined,
           duration: "",
           location: "Vancouver, Canada",
-          skills: [ reactjs, spring, java, mulesoft, aws, kubernetes, jenkins, shellScript, centos,],
+          skills: [ reactjs, spring, java, mulesoft, aws, kubernetes, jenkins, jira, shellScript, centos,],
           projects: [],
           descriptions: [
             "Technology: React, Spring Boot, Java, MuleSoft, Docker, Jenkins, AWS, Kubernetes, Anypoint Manager, JIRA, SSL",
